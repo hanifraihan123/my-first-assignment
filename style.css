@@ -24,6 +24,7 @@ nav{
 }
 .img{
   text-align: center;
+  padding: 30px 50px;
 }
 .para{
   text-align: center;
@@ -55,4 +56,11 @@ gap 60px;
 }
 .js{
   background-color: #dbdad0;
+}
+input{
+  width: 330px;
+  height: 17px;
+  border-radius: 5px;
+  margin: opx 250px;
+ 
 }
