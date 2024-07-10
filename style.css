@@ -1,0 +1,58 @@
+
+.title{
+  font-weight: bold;
+  font-size: 45px;
+  text-align: center;
+
+}
+.btn{
+  color: white;
+  background-color: #0D1321;
+  padding: 10px 24px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 400px;
+  margin: 0px 310px;
+}
+nav{
+  padding: 54px 162px 17px 280px;
+  width: 800px;
+  height: 520px;
+ align-items: center;
+ margin: auto;
+  background-image: url(../assets/Hero-bg.png);
+}
+.img{
+  text-align: center;
+}
+.para{
+  text-align: center;
+  font-size: 16px;
+}
+.hlw{
+  text-align: center;
+}
+.video{
+  padding-left: 20%;
+  border-radius: 16px;
+}
+.why{
+  margin: 20px 150px;
+}
+.banner{
+  justify-content: space-evenly;
+display: flex;
+padding: 30px 20px;
+gap 60px;
+}
+.html{
+  background-color:rgb(241, 209, 209);
+  gap: 5px;
+}
+.css{
+  background-color: #e5e9f1;
+  
+}
+.js{
+  background-color: #dbdad0;
+}
